@@ -21,6 +21,7 @@ Here are some of my featured mobile app repositories:
 5. [Flutter Movie App](https://github.com/danieljohnmeen/Flutter-Movie-App)
 6. [React Native Movie App](https://github.com/danieljohnmeen/RN-Movie-App)
 7. [React Native Real Time Chat App With Firebase](https://github.com/danieljohnmeen/ReactNative-Real-Time-Chat)
+8. [Flutter Real Time Chat App With Firebase](https://github.com/danieljohnmeen/Flutter-Real-Time-Chat)
 <!-- Add more mobile app repositories as needed -->
 
 <!-- ## 🖥️ Backend Repositories
