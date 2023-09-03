@@ -20,7 +20,7 @@ Here are some of my featured mobile app repositories:
 4. [React Native ChatGPT Integration](https://github.com/danieljohnmeen/ChatGPT-React-Native)
 5. [Flutter Movie App](https://github.com/danieljohnmeen/Flutter-Movie-App)
 6. [React Native Movie App](https://github.com/danieljohnmeen/RN-Movie-App)
-7. [React Native Chat App](https://github.com/danieljohnmeen/React-Native-Chat-App)
+7. [React Native Real Time Chat App With Firebase](https://github.com/danieljohnmeen/ReactNative-Real-Time-Chat)
 <!-- Add more mobile app repositories as needed -->
 
 <!-- ## 🖥️ Backend Repositories
