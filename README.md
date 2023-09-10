@@ -24,13 +24,13 @@ Here are some of my featured mobile app repositories:
 8. [Flutter Real Time Chat App With Firebase](https://github.com/danieljohnmeen/Flutter-Real-Time-Chat)
 <!-- Add more mobile app repositories as needed -->
 
-<!-- ## 🖥️ Backend Repositories
+ ## 🖥️ Full Stack Repositories
 
 Here are some of my featured backend repositories:
 
-1. [Backend Repository 1](https://github.com/[YourUsername]/[BackendRepo1]) - Brief description of the backend repository.
-2. [Backend Repository 2](https://github.com/[YourUsername]/[BackendRepo2]) - Brief description of the backend repository.
-3. [Backend Repository 3](https://github.com/[YourUsername]/[BackendRepo3]) - Brief description of the backend repository. -->
+1. [NodeJS Ecommerce REST API](https://github.com/danieljohnmeen/Node.js-Ecommerce-Rest-API)
+2. [NodeJS ChatGPT Clone](https://github.com/danieljohnmeen/ChatGPT-Clone-NodeJS)
+3. [Python EDI834 Generator](https://github.com/danieljohnmeen/EDI834-Generator-Python)
 <!-- Add more backend repositories as needed -->
 
 Feel free to explore these repositories to get a glimpse of my work and coding style.
