@@ -26,7 +26,7 @@ Here are some of my featured mobile app repositories:
 
  ## 🖥️ Full Stack Repositories
 
-Here are some of my featured backend repositories:
+Here are some of my featured repositories:
 
 1. [NodeJS Ecommerce REST API](https://github.com/danieljohnmeen/Node.js-Ecommerce-Rest-API)
 2. [NodeJS ChatGPT Clone](https://github.com/danieljohnmeen/ChatGPT-Clone-NodeJS)
