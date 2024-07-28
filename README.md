@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate and experienced mobile & backend 
 ## 🚀 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,swift,react,dart,flutter,python,django,php,laravel,nodejs,golang,ruby,figma&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=react,vue,java,kotlin,swift,react,dart,flutter,python,django,php,laravel,nodejs,golang,ruby,figma&theme=light"/>
   <!-- Add more skill icons here -->
 </p>
 
