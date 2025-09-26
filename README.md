@@ -1,6 +1,6 @@
 # Hello, I'm Arie, and it my Patronus 👋
 
-Welcome to my GitHub profile! I'm a passionate and experienced mobile & backend developer. I'm committed to crafting elegant solutions and building high-quality applications that deliver exceptional user experiences.
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate and experienced mobile & backend developer. I'm committed to crafting elegant solutions and building high-quality applications that deliver exceptional user experiences.</h3>
 
 ## 🚀 Skills
 
