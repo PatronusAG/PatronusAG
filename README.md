@@ -1,4 +1,4 @@
-# Hello, I'm Daniel 👋
+# Hello, I'm Arie, and it my patronus 👋
 
 Welcome to my GitHub profile! I'm a passionate and experienced mobile & backend developer. I'm committed to crafting elegant solutions and building high-quality applications that deliver exceptional user experiences.
 
@@ -8,7 +8,13 @@ Welcome to my GitHub profile! I'm a passionate and experienced mobile & backend 
   <img src="https://skillicons.dev/icons?i=react,vue,javascript,typescript,java,kotlin,swift,react,dart,flutter,python,django,php,laravel,nodejs,figma&theme=light"/>
   <!-- Add more skill icons here -->
 </p>
+## 🖥️ Full Stack Repositories
 
+Here are some of my featured repositories:
+
+1. [NodeJS Ecommerce REST API](https://github.com/danieljohnmeen/Node.js-Ecommerce-Rest-API)
+2. [NodeJS ChatGPT Clone](https://github.com/danieljohnmeen/ChatGPT-Clone-NodeJS)
+3. [Python EDI834 Generator](https://github.com/danieljohnmeen/EDI834-Generator-Python)
 
 ## 📱 Mobile Repositories
 
@@ -27,13 +33,7 @@ Here are some of my featured mobile app repositories:
 11. [Ecommerce Mobile App - React Native](https://github.com/danieljohnmeen/Ecommerce-App-React-Native)
 <!-- Add more mobile app repositories as needed -->
 
- ## 🖥️ Full Stack Repositories
-
-Here are some of my featured repositories:
-
-1. [NodeJS Ecommerce REST API](https://github.com/danieljohnmeen/Node.js-Ecommerce-Rest-API)
-2. [NodeJS ChatGPT Clone](https://github.com/danieljohnmeen/ChatGPT-Clone-NodeJS)
-3. [Python EDI834 Generator](https://github.com/danieljohnmeen/EDI834-Generator-Python)
+ 
 <!-- Add more backend repositories as needed -->
 
 Feel free to explore these repositories to get a glimpse of my work and coding style.
