@@ -1,4 +1,4 @@
-# Hello, I'm Arie, and it my Patronus 👋
+# Hello, I'm Arie, and it's my Patronus 👋
 
 <h3> Welcome to my GitHub profile! I'm a passionate and experienced mobile & backend developer. I'm committed to crafting elegant solutions and building high-quality applications that deliver exceptional user experiences. </h3>
 
